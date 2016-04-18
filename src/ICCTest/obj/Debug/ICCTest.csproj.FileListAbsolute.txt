@@ -1,0 +1,9 @@
+B:\Tutorial\Projects\ICC\ICCTest\bin\Debug\ICCTest.exe.config
+B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.csprojResolveAssemblyReference.cache
+B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.Form1.resources
+B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.Properties.Resources.resources
+B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.csproj.GenerateResource.Cache
+B:\Tutorial\Projects\ICC\ICCTest\bin\Debug\ICCTest.exe
+B:\Tutorial\Projects\ICC\ICCTest\bin\Debug\ICCTest.pdb
+B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.exe
+B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.pdb
