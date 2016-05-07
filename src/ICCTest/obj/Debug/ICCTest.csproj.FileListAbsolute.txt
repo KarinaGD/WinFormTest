@@ -7,3 +7,6 @@ B:\Tutorial\Projects\ICC\ICCTest\bin\Debug\ICCTest.exe
 B:\Tutorial\Projects\ICC\ICCTest\bin\Debug\ICCTest.pdb
 B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.exe
 B:\Tutorial\Projects\ICC\ICCTest\obj\Debug\ICCTest.pdb
+B:\Git\ICC\WinFormTest\src\ICCTest\bin\Debug\ICCTest.exe.config
+B:\Git\ICC\WinFormTest\src\ICCTest\obj\Debug\ICCTest.exe
+B:\Git\ICC\WinFormTest\src\ICCTest\obj\Debug\ICCTest.pdb
