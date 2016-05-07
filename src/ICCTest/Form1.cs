@@ -8,8 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Testing github hub
-//Testing git
+//Testing git hub
 namespace ICCTest
 {
     public partial class Form1 : Form
